@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*##########-section hero img-########*/
+
+.heroimg{
+    padding: 60px 0 105px;
+    background-color: #fcdb00;
+
+}
+
+.logo {
+    height: 48px;
+    display: inline-block;
+}
+
+ul{
+    list-style: none;
+}
+
+.navbar ul{
+    list-style: none;
+    display: inline-block;
+}
+
+.navbar li{
+    display: inline-block;
+    margin-right: 35px;
+}
+.navbar li:last-child{
+    margin-right: 0;
+}
+
+.navbar li a{
+    padding: 0px 21px;
+    font-weight: bold;
+    font-size: 22px;
+    color: #010101;
+    text-transform: capitalize;
+    height: 48px;
+    display: inline-block;
+    line-height: 48px;
+}
+
+.ipad{
+    margin-left: 40px;
+}
+
+.Inspire{
+    padding-top: 70px;
+}
+
+.brandlink li{
+    display: inline-block;
+    margin-right: 40px;
+}
+
+.brandlink li i{
+    font-size: 40PX;
+    color: #010101;
+
+}
+
+           /*########feature section starts###########*/
+
+.feature-sec{
+    padding: 120px 0 70px ;
+}
+.thumbnail{
+    margin-bottom: 90px;
+ 
+}
+
+
+.thumbnailheading{
+    color: #010101;
+    font: bold;
+    font-size: 22px;
+    margin-bottom: 15px;
+
+}
+
+.thumbnailpara{
+    font-size: 16px;
+    color: #898989;
+}
+
+.thumIcon i{
+    font-size: 42px;
+}
+
+
+                                    /*########footer section starts###########*/
+
+
+.footer{
+    padding: 90px 0 140px;
+    background-color: #010101;
+}
+
+.footerlink li, .footerlink a{
+    color: #ffffff;
+    font-size: 16px;
+    
+}
